@@ -1,0 +1,10 @@
+{
+	"id": "title-customizer",
+	"name": "Title Customizer",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.12",
+	"description": "Set the app window title from a template of note metadata (path, name, folder, frontmatter, vault, workspace) so time trackers like ActivityWatch can see what you are working on.",
+	"author": "Josh Glazer",
+	"authorUrl": "https://github.com/jsglazer",
+	"isDesktopOnly": true
+}

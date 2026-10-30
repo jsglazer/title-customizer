@@ -1,0 +1,23 @@
+{
+	"name": "title-customizer",
+	"version": "1.0.0",
+	"description": "Set the Obsidian window title from a template of note metadata, for window-title time trackers such as ActivityWatch.",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "tsc --noEmit -p tsconfig.json && node esbuild.config.mjs production",
+		"test": "vitest run",
+		"test:watch": "vitest"
+	},
+	"keywords": ["obsidian", "plugin", "window-title", "activitywatch", "time-tracking"],
+	"author": "Josh Glazer",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^25.9.3",
+		"esbuild": "0.28.1",
+		"obsidian": "latest",
+		"tslib": "2.8.1",
+		"typescript": "^6.0.3",
+		"vitest": "^4.1.8"
+	}
+}

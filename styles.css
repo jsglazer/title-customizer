@@ -1,0 +1,16 @@
+.title-customizer-preview {
+	user-select: text;
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.title-customizer-help ul {
+	margin-top: 0;
+}
+
+.title-customizer-template textarea {
+	font-family: var(--font-monospace);
+	width: 100%;
+	min-width: 320px;
+	min-height: 4em;
+}
