@@ -3,7 +3,10 @@
 [![GitHub release](https://img.shields.io/github/v/release/jsglazer/title-customizer?logo=github)](https://github.com/jsglazer/title-customizer/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jsglazer/title-customizer/blob/main/LICENSE)
 [![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97756?logo=anthropic)](https://claude.ai)
+[![Gemini Flash Antigravity](https://img.shields.io/badge/Gemini%20Flash-Antigravity-4f86f7?logo=google-gemini&logoColor=white)](https://github.com/google-gemini)
 [![CI](https://github.com/jsglazer/title-customizer/actions/workflows/ci.yml/badge.svg)](https://github.com/jsglazer/title-customizer/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/jsglazer/title-customizer/actions/workflows/codeql.yml/badge.svg)](https://github.com/jsglazer/title-customizer/actions/workflows/codeql.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jsglazer/title-customizer/badge)](https://securityscorecards.dev/viewer/?uri=github.com/jsglazer/title-customizer)
 
 An Obsidian plugin that sets the app window title from a template of note metadata — path, file name, folder, frontmatter, vault, workspace. Time trackers that log the active window title, such as [ActivityWatch](https://activitywatch.net/) or Timing, can then record *which note* you were working in, not just "Obsidian".
 
